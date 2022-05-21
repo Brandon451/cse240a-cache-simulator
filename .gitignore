@@ -1,2 +1,2 @@
-*.o
-cache
+src/*.o
+src/cache
