@@ -38,7 +38,7 @@ The testing can be done using the traces given to you in the repository. There a
    * `./cache --icache=512:2:2 --dcache=256:4:2 --l2cache=16384:8:50 --blocksize=64 --memspeed=100 --inclusive`
 
 
-You need to make sure that your coutput matches this configuration output with 2% of error margin. There will be some more hidden test cases which will test the simulator against some other configurations. 
+You need to make sure that your output matches this configuration output with 2% of error margin. There will be some more hidden test cases which will test the simulator against some other configurations. 
 
 You can test using the same docker image as Project 1, the image name is `gandhardesh13/240a_base:v2` The commands to run this would be the same as before: `docker pull gandhardesh13/240a_base:v2` to pull the image, `docker run --rm -it -v <path on local machine>/<path on ubuntu> gandhardesh13/240a_base:v2` to run it on your local machine.
 
