@@ -7,7 +7,7 @@ We have given a framework for running the cache functions in `main.c`. You will 
 
 
 ## Get Started
-Download the code from this repository `<TODO: add repo link>`. Once you have checked out this repository, start adding your code into this. To compile, run the following command from within the src directory: make all or make. This will compile your code and generate output files. You will also get a executable binary called "cache". 
+Download the code from this repository `https://github.com/Brandon451/cse240a-cache-simulator`. Once you have checked out this repository, start adding your code into this. To compile, run the following command from within the src directory: make all or make. This will compile your code and generate output files. You will also get a executable binary called "cache". 
 
 ## Testing
 Once you have created the binary, you can run it with the following command:
@@ -78,4 +78,4 @@ We will be taking only your predictor.c and predictor.h files. You can cadd the 
 |   ├── 📄 predictor.h
 ```
 
-You can, of course, submit the entire repository, but we will look for only these files, and all the remaining files used will be our own.
+You can, of course, submit the entire repository, but we will look for only these files, and all the remaining files used will be our own. We will run the following commands for grading: `make clean` followed by `make`
