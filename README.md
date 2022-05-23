@@ -70,7 +70,7 @@ Sample Trace from tsman.bz2:
 This assignment is to be done individually by every student. Please make sure you do not copy a single line of code from any source. Not from other students, not from the web, not from anywhere. We have very sophisticated tools to discover if you did. This is a graduate class and we have the very highest expectations for integrity. You should expect that if you do so, even in very small amounts, you will be caught, you will be asked to leave the program, and if an international student, required to leave the country. 
 
 ## Turning it in
-We will be taking only your predictor.c and predictor.h files. You can cadd the entire repository, but you need to have a folder structure like the following at least:
+We will be taking only your predictor.c and predictor.h files. You can add the entire repository, but you need to have a folder structure like the following at least:
 
 ```
 ├── 📂 src
