@@ -74,8 +74,8 @@ We will be taking only your predictor.c and predictor.h files. You can add the e
 
 ```
 ├── 📂 src
-|   ├── 📄 predictor.c
-|   ├── 📄 predictor.h
+|   ├── 📄 cache.c
+|   ├── 📄 cache.h
 ```
 
 You can, of course, submit the entire repository, but we will look for only these files, and all the remaining files used will be our own. We will run the following commands for grading: `make clean` followed by `make`
